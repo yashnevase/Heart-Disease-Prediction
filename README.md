@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/yashnevase/heart-disease-prediction.git
 Change into the project directory:
 
 bash
