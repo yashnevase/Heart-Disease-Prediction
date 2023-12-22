@@ -16,6 +16,8 @@ This web application uses a K-nearest neighbors (KNN) machine learning model to 
 
 
 ![end](https://github.com/yashnevase/Heart-Disease-Prediction/assets/78201930/689664e7-6a94-447f-8e99-278d98ceb5e3)
+![endd](https://github.com/yashnevase/Heart-Disease-Prediction/assets/78201930/e8fab2a2-3b20-4d46-b0a3-8596e0f147f7)
+
 
 
 
