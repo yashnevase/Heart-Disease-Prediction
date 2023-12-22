@@ -2,6 +2,23 @@
 Overview
 This web application uses a K-nearest neighbors (KNN) machine learning model to predict the likelihood of heart disease based on user-entered data. The project is implemented using Flask, a lightweight Python web framework.
 
+#IMAGES
+
+#Login
+
+![login](https://github.com/yashnevase/Heart-Disease-Prediction/assets/78201930/dd78ad27-e420-46ac-ad01-1bdaba730878)
+
+#Details
+
+![detail](https://github.com/yashnevase/Heart-Disease-Prediction/assets/78201930/d4a47455-dec9-4203-b817-a0edc53a8f91)
+
+#Result
+
+
+![end](https://github.com/yashnevase/Heart-Disease-Prediction/assets/78201930/689664e7-6a94-447f-8e99-278d98ceb5e3)
+
+
+
 # Table of Contents
 Features
 Getting Started
